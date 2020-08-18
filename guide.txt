@@ -1,0 +1,35 @@
+# to create package.json
+npm init --yes
+# or
+npm init -y
+
+# to install express
+npm install express
+
+# using body parser middleware
+npm install body-parser --save
+
+# working with databse
+npm install mongoose --save
+# to start mongodb from cmd
+mongod
+
+
+
+# git
+# to clone from github after copied of link
+git clone copied_link
+# check status before going to prefered branch
+git status
+# to go to specific folder in the directory
+git checkout folder_name
+# to commit
+git commit -m "ur comment"
+# push changes to github
+git push origin
+
+
+git commit --author="John Doe <john@doe.org>"
+
+git config --global user.name "John Doe"
+git config --global user.email "john@doe.org"
